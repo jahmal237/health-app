@@ -1,0 +1,234 @@
+
+body{
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+}
+section{
+	height: 650px;
+	width: 480px;
+	border: 1px solid #ccc;
+	border-radius: 10px 10px 10px 10px;
+}
+.healthhh{
+ border-radius:10px 10px 35px 35px;
+opacity: 0.7;
+}
+.menu{
+			
+	padding: 0.5em;
+	display: flex;
+	justify-content: left;
+	align-items: center;
+}
+.img_avatar{
+ vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left:350px;
+ }
+p{
+	color:#808080;
+	padding-left:20px;
+}
+h3{
+	text-decoration: blink;
+	padding-left: 20px;
+}
+.intro{
+	line-height: 1.3px;
+}
+
+.wrapper {
+    position: relative;
+    display: flex;
+    min-width: 100px;
+  }
+
+  .search-icon {
+    position: absolute;
+    top: 6px;
+    left: 8px;
+    width: 17px;
+    margin-left: 17px;
+  }
+
+  .clear-icon {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    width: 10px;
+    cursor: pointer;
+    <!-- visibility: hidden; -->
+  }
+  .search {
+    border: 1px solid grey;
+    border-radius: 5px;
+    height: 20px;
+    width: 80%;
+    padding: 2px 23px 2px 30px;
+    outline: 0;
+    background-color: #f5f5f5;
+    margin-left: 17px;
+  }
+
+#section2 p{
+	color: green;
+	font-weight: bold;
+}
+#box{
+	width: 380px;
+	height:150px;
+	padding-right: 30px;
+	margin-left: 37px;
+	background: #ccc;
+    box-shadow: 4px 3px 8px 1px #969696;
+  	-webkit-box-shadow: 4px 3px 8px 1px #969696;
+  	border-radius: 10px 10px 10px 10px;
+}
+#st-box{
+	float: left;
+	width: 100px;
+	height: 50px;
+	margin-left: 25px;
+	 box-shadow: 4px 3px 8px 1px #969696;
+  	-webkit-box-shadow: 4px 3px 8px 1px #969696;
+  	border-radius: 10px 10px 10px 10px;
+  	list-style-type: none;
+}
+.specialities{
+width: 30px;
+height: 25px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+background-color: green;
+}
+.ayuk{
+	font-size: 10px;
+	margin-left: -20px;
+	line-height: 10px;
+	margin-top: 4px;
+	text-align: center;
+}
+#nd-box{
+	float: left;
+	width: 100px;
+	height: 50px;
+	background-color: white;
+	margin-left: 25px;
+	box-shadow: 4px 3px 8px 1px #969696;
+  	-webkit-box-shadow: 4px 3px 8px 1px #969696;
+  	border-radius: 10px 10px 10px 10px;
+  	list-style-type: none;
+
+}
+#rd-box{
+	float: left;
+	width: 100px;
+	height: 50px;
+	background-color: white;
+	margin-left: 25px;
+	box-shadow: 4px 3px 8px 1px #969696;
+  	-webkit-box-shadow: 4px 3px 8px 1px #969696;
+  	border-radius: 10px 10px 10px 10px;
+  	list-style-type: none;
+}
+.container{
+	margin-left: 25px;
+}
+#ss-box{
+	float: left;
+	width: 65px;
+	height: 70px;
+	background-color: white;
+	margin-left: 25px;
+	background: white;
+    box-shadow: 4px 3px 8px 1px #969696;
+  	-webkit-box-shadow: 4px 3px 8px 1px #969696;
+  	border-radius: 10px 10px 10px 10px;
+  	list-style-type: none;
+}
+#nn-box{
+	float: left;
+	width: 65px;
+	height: 70px;
+	background-color: white;
+	margin-left: 25px;
+	box-shadow: 4px 3px 8px 1px #969696;
+  	-webkit-box-shadow: 4px 3px 8px 1px #969696;
+  	border-radius: 10px 10px 10px 10px;
+  	list-style-type: none;
+}
+#rn-box{
+	float: left;
+	width: 65px;
+	height: 70px;
+	background-color: white;
+	margin-left: 25px;
+	box-shadow: 4px 3px 8px 1px #969696;
+  	-webkit-box-shadow: 4px 3px 8px 1px #969696;
+  	border-radius: 10px 10px 10px 10px;
+  	list-style-type: none;
+}
+#td-box{
+	float: left;
+	width: 65px;
+	height: 70px;
+	background-color: white;
+	margin-left: 25px;
+	box-shadow: 4px 3px 8px 1px #969696;
+  	-webkit-box-shadow: 4px 3px 8px 1px #969696;
+  	border-radius: 10px 10px 10px 10px;
+  	list-style-type: none;
+}
+.bag{
+	margin-left: 25px;
+}
+.image_doc{
+align-content: center;
+width: 55px;
+height: 45px;
+display: flex;
+
+text-align: center;
+}
+.ndumbe{
+	font-size: 10px;
+	margin-left: -20px;
+	line-height: 10px;
+	margin-top: 4px;
+	text-align: center;
+
+
+}
+.doc2{
+	width: 65px;
+    height: 55px;
+    float: left;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.sophie{
+	font-weight: bold;
+	color: black;
+	margin-left:3px;
+	float: left;
+	font-size: 15px;
+}
+.cardio{
+	float: left;
+	margin-top: -15px;
+}
+.date{
+	bottom: 8px;
+	right: 16px;
+}
+.phone{
+	position: absolute;
+
+	
+}
